@@ -12,6 +12,14 @@
             Plus(A, B);
             Minus(A, B);
             Multi(A, B);
+            Del(A, B);
+        }
+
+        static void Del(int A, int B)
+        {
+            float C = A / B;
+            Console.WriteLine($"Операция '/': {C}");
+            
         }
         static void Multi(int A, int B)
         {
@@ -29,5 +37,6 @@
             Console.WriteLine($"Операция '+': {C}");
         }
     }
-    }
 }
+
+
