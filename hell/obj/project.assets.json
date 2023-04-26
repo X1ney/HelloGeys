@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ntual\\.nuget\\packages\\": {}
+    "C:\\Users\\chert\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projectUnity\\TestLab1\\HelloGeys\\hell\\hell.csproj",
+      "projectUniqueName": "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\hell.csproj",
       "projectName": "hell",
-      "projectPath": "E:\\projectUnity\\TestLab1\\HelloGeys\\hell\\hell.csproj",
-      "packagesPath": "C:\\Users\\ntual\\.nuget\\packages\\",
-      "outputPath": "E:\\projectUnity\\TestLab1\\HelloGeys\\hell\\obj\\",
+      "projectPath": "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\hell.csproj",
+      "packagesPath": "C:\\Users\\chert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ntual\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chert\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
