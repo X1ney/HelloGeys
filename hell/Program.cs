@@ -11,6 +11,12 @@
             B = Convert.ToInt16(Console.ReadLine());
             Plus(A, B);
             Minus(A, B);
+            Multi(A, B);
+        }
+        static void Multi(int A, int B)
+        {
+            float C = A * B;
+            Console.WriteLine($"Операция '*': {C}");
         }
         static void Minus(int A, int B)
         {
