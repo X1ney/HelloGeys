@@ -1,0 +1,15 @@
+E:\projectUnity\TestLab1\HelloGeys\hell\bin\Debug\net6.0\hell.exe
+E:\projectUnity\TestLab1\HelloGeys\hell\bin\Debug\net6.0\hell.deps.json
+E:\projectUnity\TestLab1\HelloGeys\hell\bin\Debug\net6.0\hell.runtimeconfig.json
+E:\projectUnity\TestLab1\HelloGeys\hell\bin\Debug\net6.0\hell.dll
+E:\projectUnity\TestLab1\HelloGeys\hell\bin\Debug\net6.0\hell.pdb
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.csproj.AssemblyReference.cache
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.AssemblyInfoInputs.cache
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.AssemblyInfo.cs
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.csproj.CoreCompileInputs.cache
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.dll
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\refint\hell.dll
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.pdb
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\hell.genruntimeconfig.cache
+E:\projectUnity\TestLab1\HelloGeys\hell\obj\Debug\net6.0\ref\hell.dll
