@@ -13,6 +13,7 @@
             Minus(A, B);
             Multi(A, B);
             Del(A, B);
+            Expo(A, B);
         }
 
         static void Del(int A, int B)
@@ -35,6 +36,11 @@
         {
             float C = A + B;
             Console.WriteLine($"Операция '+': {C}");
+        }
+        static void Expo(int A, int B)
+        {
+            double C = Math.Pow(A,B);
+            Console.WriteLine($"Операция '^': {C}");
         }
     }
 }

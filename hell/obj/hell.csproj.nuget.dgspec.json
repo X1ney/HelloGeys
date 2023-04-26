@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\hell.csproj": {}
+    "D:\\Githui\\HelloGeys\\hell\\hell.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\hell.csproj": {
+    "D:\\Githui\\HelloGeys\\hell\\hell.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\hell.csproj",
+        "projectUniqueName": "D:\\Githui\\HelloGeys\\hell\\hell.csproj",
         "projectName": "hell",
-        "projectPath": "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\hell.csproj",
-        "packagesPath": "C:\\Users\\chert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chert\\Desktop\\Unnamed Game\\HelloGeys\\hell\\obj\\",
+        "projectPath": "D:\\Githui\\HelloGeys\\hell\\hell.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Githui\\HelloGeys\\hell\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
