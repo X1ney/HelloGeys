@@ -8,11 +8,12 @@
             Console.WriteLine("Введите А: ");
             A = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Введите B: ");
-            B = Convert.ToInt16(Console.ReadLine());
+            B = Convert.ToInt16(Console.ReadLine());в
             Plus(A, B);
             Minus(A, B);
             Multi(A, B);
             Del(A, B);
+            DelOst(A, B);
         }
 
         static void Del(int A, int B)
@@ -35,6 +36,11 @@
         {
             float C = A + B;
             Console.WriteLine($"Операция '+': {C}");
+        }
+        static void DelOst(int A, int B)
+        {
+            float C = A % B;
+            Console.WriteLine($"Операция '%': {C}");
         }
     }
 }
